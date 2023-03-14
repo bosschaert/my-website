@@ -123,7 +123,8 @@ a:any-link {
 
 a:hover {
   text-decoration: underline;
-  color: var(--link-hover-color);
+  color: red;
+  /* color: var(--link-hover-color); */
 }
 
 /* buttons */
